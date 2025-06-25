@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi there 👋, I'm MD Bishal Ahmed Rafi</h1>
-<h3 align="center">🚀 Junior Full Stack Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">🚀 I'm a Junior Full Stack Developer | MERN Stack Enthusiast</h3>
 
 ---
 
@@ -15,7 +15,7 @@ Hello! I'm **MD Bishal Ahmed Rafi**, a passionate and self-motivated **Junior Fu
 
 ## 🔥 What I’m Currently Doing
 - 🧪 Exploring **Next.js** for SSR and dynamic routing
-- 🌐 Working on a **Tourism Website** with React and Tailwind CSS
+- 🌐 Working on a **ProFast Delivery Website** with React, tailwind CSS for the Frontend and Node.js, Express.js, MongoDB for the Backend.
 - 🤝 Contributing to open-source projects
 - 📖 Learning **MongoDB Aggregation** and advanced backend patterns
 
@@ -31,7 +31,7 @@ Hello! I'm **MD Bishal Ahmed Rafi**, a passionate and self-motivated **Junior Fu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss.svg" width="40" height="40" alt="Tailwind CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
 </p>
@@ -41,9 +41,9 @@ Hello! I'm **MD Bishal Ahmed Rafi**, a passionate and self-motivated **Junior Fu
 ## 🌐 Connect with Me
 
 <p>
-  <a href="mailto:mdbishalahmedrafi55@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:mdbishalahmedrafi55@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />mdbishalahmedrafi55@gmail.com</a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" />https://github.com/MDBishalAhmedRafi/MDBishalAhmedRafi</a>
   <a href="https://YOUR_PORTFOLIO.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
